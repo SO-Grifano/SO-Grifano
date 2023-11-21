@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Serhii
-- 👀 I’m interested in Web Design, Web Development, Webflow, drums, road bike 🚴
+- 👀 I’m interested in Web Design, Web Development, Webflow, drums 🥁, road bike 🚴
 - 🌱 I’m currently learning FullStack with GO-IT
 - 💞️ I’m looking to collaborate on Web Designers, Webflow, Web Developers
 - 📫 Reach me on [X](https://twitter.com/OrlenkoSerhii)
